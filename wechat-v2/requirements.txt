@@ -1,0 +1,16 @@
+crypto==1.4.1
+pycrypto==2.6.1
+Flask==1.1.1
+Flask-Cors==3.0.8
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+Naked==0.1.31
+pycurl==7.43.0
+PyYAML==5.1.1
+requests==2.10
+shellescape==3.4.1
+six==1.10.0
+urllib3==1.13.1
+sapcai==4.0.0
+numpy==1.16.4

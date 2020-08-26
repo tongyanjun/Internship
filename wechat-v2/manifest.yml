@@ -1,0 +1,5 @@
+---
+applications:
+- name: WeChatApp
+  path: ./
+  command: python main.py
